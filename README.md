@@ -60,3 +60,35 @@ Implementar autenticación de dos factores (2FA) en todas las cuentas administra
 ## Conclusión
 
 El incidente demostró cómo una contraseña débil o por defecto puede comprometer por completo un sitio web. La implementación de controles de autenticación más robustos y la supervisión continua de los accesos administrativos son medidas fundamentales para proteger los sistemas contra ataques de fuerza bruta.
+
+
+
+## Evidencias Visuales
+
+### 1. Vista General del Ataque
+
+![Vista General](assets/01-attack-overview.png)
+
+---
+
+### 2. Proceso del Ataque de Fuerza Bruta
+
+![Brute Force](assets/02-brute-force-process.png)
+
+---
+
+### 3. Flujo DNS y HTTP
+
+![DNS HTTP](assets/03-dns-http-flow.png)
+
+---
+
+### 4. Mapa de Impacto del Incidente
+
+![Impacto](assets/04-incident-impact-map.png)
+
+---
+
+### 5. Dashboard Ejecutivo
+
+![Dashboard Ejecutivo](assets/05-executive-dashboards.png)
